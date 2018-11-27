@@ -1,1 +1,15 @@
 
+{
+    "name": "gaozhongqiang/xor_verify",
+    "description": "异或加密解密url参数进行url参数安全传输",
+    "keywords": [],
+    "authors": [
+        {
+            "name": "gaozhongqiang",
+            "email": "1225000209@qq.com"
+        }
+    ],
+    "require": {
+        "php": "^5.3.3 || ^7.0"
+    }
+}
